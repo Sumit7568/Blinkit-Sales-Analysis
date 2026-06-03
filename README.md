@@ -1,3 +1,7 @@
+<img width="1073" height="548" alt="image" src="https://github.com/user-attachments/assets/a6be7557-4725-44e6-a521-550dcdc0856e" />
+<img width="1070" height="561" alt="image" src="https://github.com/user-attachments/assets/ce04a98a-848a-4d6e-953a-af6e04065f52" />
+<img width="1037" height="552" alt="image" src="https://github.com/user-attachments/assets/34583d79-cdb0-4369-9926-2d8758da0d97" />
+
 🛒 Blinkit Sales Analysis
 📌 Project Overview
 
@@ -29,5 +33,3 @@ Data Analysis & Visualization
 
 The analysis delivers actionable insights to optimize product strategy, improve sales performance, and enhance business decision-making.
 
-
-<img width="1073" height="548" alt="image" src="https://github.com/user-attachments/assets/a6be7557-4725-44e6-a521-550dcdc0856e" />
