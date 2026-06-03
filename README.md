@@ -28,3 +28,6 @@ Data Analysis & Visualization
 📈 Outcome
 
 The analysis delivers actionable insights to optimize product strategy, improve sales performance, and enhance business decision-making.
+
+
+<img width="1073" height="548" alt="image" src="https://github.com/user-attachments/assets/a6be7557-4725-44e6-a521-550dcdc0856e" />
